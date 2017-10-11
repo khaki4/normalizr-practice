@@ -1,5 +1,5 @@
 import React from 'react';
-import testCase form './testCase'
+import testCase from './testCase'
 
 const App = () => {
   testCase()
